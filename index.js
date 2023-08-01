@@ -35,7 +35,7 @@ $('form').validate({
 invalidHandler: function(evento,validador){
   let camposIncorretos=validador.numberOfInvalids();
   if(camposIncorretos){
-    alert(`Existem ${camposIncorretos}campos incorretos`)
+    alert(`Existem ${camposIncorretos} campos incorretos`)
   }
 }
 
