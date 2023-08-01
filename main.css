@@ -1,0 +1,42 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+form{
+ background-color: rgb(90, 23, 179)
+
+}
+h1{
+  align-items: center;
+  margin-right: 35%;
+margin-left: 35%;
+padding: 15px;
+}
+form label {
+  font-size: 20px;
+  padding-top: 15px;
+}
+form label input{
+  font-size: 20px;
+
+}
+button{
+  padding: 5px;
+  color: #ffff;
+  background-color: rgb(133, 77, 206);
+  font-weight: bold;
+  margin-top: 15px;
+  width: 100%;
+}
+.container{
+margin-right: 25%;
+margin-left: 25%;
+
+padding: 50px;
+ width: 50%;
+align-items: center;
+  display:grid;
+  color:#fff;
+  
+}
